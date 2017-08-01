@@ -1,0 +1,3 @@
+module RailsRestful
+  # Your code goes here...
+end
