@@ -1,5 +1,5 @@
 class ErrorsController < ApplicationController
-  include RailsRestful::Errors::Concern
+  include RailsRestful::Errors::Handling
 
   def raise_error_action
     fail params[:error].to_sym

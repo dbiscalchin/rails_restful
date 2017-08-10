@@ -14135,3 +14135,486 @@ ErrorsControllerTest: test_raise_method_passing_error_object_with_message_and_op
 ErrorsControllerTest: test_fail_method_passing_error_key,_message_and_option
 ----------------------------------------------------------------------------
   [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_key,_message_and_option
+-----------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_object_with_message_and_option
+------------------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_object_with_option
+------------------------------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_key
+--------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_object_with_message_and_option
+-----------------------------------------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_a_non_API_exception_class_and_message
+-------------------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_a_non_API_exception
+-------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_key,_message_and_option
+----------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_class
+-----------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_a_non_API_exception_class
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_class_and_option
+---------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_a_non_API_exception
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_object
+-----------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_a_non_API_exception_with_message
+--------------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_a_non_API_exception_with_message
+-------------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_class
+----------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_object_with_option
+-----------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_a_non_API_exception_class_and_message
+------------------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_class,_message_and_option
+-------------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_key
+---------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------------
+ErrorsControllerTest: test_raise_method_with_no_parameters
+----------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_key_and_message
+--------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_class_and_option
+----------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_object
+------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_object_with_message
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_a_non_API_exception_class
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_key_and_option
+-------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_key_and_option
+--------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_key_and_message
+---------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_class_and_message
+----------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------------------------------------------
+ErrorsControllerTest: test_fail_method_passing_error_class,_message_and_option
+------------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_object_with_message
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------------------
+ErrorsControllerTest: test_fail_method_with_no_parameters
+---------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------------------------
+ErrorsControllerTest: test_raise_method_passing_error_class_and_message
+-----------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+ErrorResponsesTest: test_gateway_timeout
+----------------------------------------
+Started GET "/errors/raise_error?error=gateway_timeout" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"gateway_timeout"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (5.5ms)
+Completed 504 Gateway Timeout in 66ms (Views: 64.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------
+ErrorResponsesTest: test_payment_required
+-----------------------------------------
+Started GET "/errors/raise_error?error=payment_required" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"payment_required"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 402 Payment Required in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------
+ErrorResponsesTest: test_bad_gateway
+------------------------------------
+Started GET "/errors/raise_error?error=bad_gateway" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"bad_gateway"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 502 Bad Gateway in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+ErrorResponsesTest: test_not_acceptable
+---------------------------------------
+Started GET "/errors/raise_error?error=not_acceptable" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"not_acceptable"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 406 Not Acceptable in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------
+ErrorResponsesTest: test_unsupported_media_type
+-----------------------------------------------
+Started GET "/errors/raise_error?error=unsupported_media_type" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"unsupported_media_type"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.2ms)
+Completed 415 Unsupported Media Type in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------
+ErrorResponsesTest: test_locked
+-------------------------------
+Started GET "/errors/raise_error?error=locked" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"locked"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 423 Locked in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+ErrorResponsesTest: test_precondition_failed
+--------------------------------------------
+Started GET "/errors/raise_error?error=precondition_failed" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"precondition_failed"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 412 Precondition Failed in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------
+ErrorResponsesTest: test_not_found
+----------------------------------
+Started GET "/errors/raise_error?error=not_found" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"not_found"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 404 Not Found in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+ErrorResponsesTest: test_length_required
+----------------------------------------
+Started GET "/errors/raise_error?error=length_required" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"length_required"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.2ms)
+Completed 411 Length Required in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------------------
+ErrorResponsesTest: test_proxy_authentication_required
+------------------------------------------------------
+Started GET "/errors/raise_error?error=proxy_authentication_required" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"proxy_authentication_required"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 407 Proxy Authentication Required in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------------
+ErrorResponsesTest: test_http_version_not_supported
+---------------------------------------------------
+Started GET "/errors/raise_error?error=http_version_not_supported" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"http_version_not_supported"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 505 HTTP Version Not Supported in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------
+ErrorResponsesTest: test_internal_server_error
+----------------------------------------------
+Started GET "/errors/raise_error?error=internal_server_error" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"internal_server_error"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 500 Internal Server Error in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------
+ErrorResponsesTest: test_forbidden
+----------------------------------
+Started GET "/errors/raise_error?error=forbidden" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"forbidden"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 403 Forbidden in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+ErrorResponsesTest: test_unprocessable_entity
+---------------------------------------------
+Started GET "/errors/raise_error?error=unprocessable_entity" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"unprocessable_entity"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.2ms)
+Completed 422 Unprocessable Entity in 2ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+ErrorResponsesTest: test_request_timeout
+----------------------------------------
+Started GET "/errors/raise_error?error=request_timeout" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"request_timeout"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 408 Request Timeout in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+ErrorResponsesTest: test_insufficient_storage
+---------------------------------------------
+Started GET "/errors/raise_error?error=insufficient_storage" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"insufficient_storage"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 507 Insufficient Storage in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------
+ErrorResponsesTest: test_gone
+-----------------------------
+Started GET "/errors/raise_error?error=gone" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"gone"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.2ms)
+Completed 410 Gone in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------
+ErrorResponsesTest: test_conflict
+---------------------------------
+Started GET "/errors/raise_error?error=conflict" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"conflict"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 409 Conflict in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------
+ErrorResponsesTest: test_method_not_allowed
+-------------------------------------------
+Started GET "/errors/raise_error?error=method_not_allowed" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"method_not_allowed"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 405 Method Not Allowed in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ErrorResponsesTest: test_not_extended
+-------------------------------------
+Started GET "/errors/raise_error?error=not_extended" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"not_extended"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 510 Not Extended in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+ErrorResponsesTest: test_not_implemented
+----------------------------------------
+Started GET "/errors/raise_error?error=not_implemented" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"not_implemented"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 501 Not Implemented in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ErrorResponsesTest: test_unauthorized
+-------------------------------------
+Started GET "/errors/raise_error?error=unauthorized" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"unauthorized"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 401 Unauthorized in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------
+ErrorResponsesTest: test_upgrade_required
+-----------------------------------------
+Started GET "/errors/raise_error?error=upgrade_required" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"upgrade_required"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 426 Upgrade Required in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------
+ErrorResponsesTest: test_expectation_failed
+-------------------------------------------
+Started GET "/errors/raise_error?error=expectation_failed" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"expectation_failed"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 417 Expectation Failed in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+ErrorResponsesTest: test_service_unavailable
+--------------------------------------------
+Started GET "/errors/raise_error?error=service_unavailable" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"service_unavailable"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 503 Service Unavailable in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------
+ErrorResponsesTest: test_bad_request
+------------------------------------
+Started GET "/errors/raise_error?error=bad_request" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"bad_request"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 400 Bad Request in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+ErrorResponsesTest: test_failed_dependency
+------------------------------------------
+Started GET "/errors/raise_error?error=failed_dependency" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"failed_dependency"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 424 Failed Dependency in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+ErrorResponsesTest: test_my_custom_error
+----------------------------------------
+Started GET "/errors/raise_error?error=my_custom_error" for 127.0.0.1 at 2017-08-10 23:33:13 +0000
+Processing by ErrorsController#raise_error_action as JSON
+  Parameters: {"error"=>"my_custom_error"}
+  Rendering errors/api_error.json.erb
+  Rendered errors/api_error.json.erb (0.1ms)
+Completed 500 Internal Server Error in 3ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------
+RailsRestful::Test: test_truth
+------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m

@@ -1,4 +1,4 @@
-module RailsRestful::Errors::Concern
+module RailsRestful::Errors::Handling
   extend ActiveSupport::Concern
 
   included do

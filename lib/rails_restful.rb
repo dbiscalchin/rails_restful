@@ -1,6 +1,6 @@
 module RailsRestful
   require 'rails_restful/errors/error_classes'
-  require 'rails_restful/errors/concern'
+  require 'rails_restful/errors/handling'
 
   mattr_reader :errors
   mattr_accessor :error_view,
